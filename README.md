@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi, I'm Ricardo Matheus
+### Hi, I'm Ricardo Matheus 👋
 
 <div align="center">
   <a href="https://github.com/ricardomathheus">
